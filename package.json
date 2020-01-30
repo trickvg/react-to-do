@@ -30,5 +30,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "The React todo example",
+  "main": "index.js",
+  "author": "Patrick Garcia <patrickvicentegarcia@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/trickvg/react-to-do.git"
 }
